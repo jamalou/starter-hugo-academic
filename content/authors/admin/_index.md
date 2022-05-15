@@ -1,5 +1,5 @@
 ---
-title: Gait 3 Data Base
+title: Gait 3 Database
 role: A tri-modal data base for gait recognition
 avatar_filename: avatar.jpg
 bio: ""
