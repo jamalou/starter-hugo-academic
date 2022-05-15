@@ -1,5 +1,5 @@
 ---
-widget: experience
+widget: gait
 date_format: Jan 2006
 experience:
   - title: CEO
