@@ -2,7 +2,7 @@
 widget: eventcam
 widget_id: event_cam
 headless: true
-weight: 27
+weight: 30
 title: Event-based Camera
 subtitle: ""
 active: true
