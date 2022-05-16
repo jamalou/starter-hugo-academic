@@ -3,7 +3,7 @@ widget: pages
 widget_id: acc
 headless: true
 weight: 25
-title: ACQUISITION PROCESS
+title: Database recording setup
 active: true
 design:
   columns: "2"
