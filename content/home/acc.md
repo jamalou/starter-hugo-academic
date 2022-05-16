@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: acc
+widget_id: rec_setup
 headless: true
 weight: 25
 title: Database recording setup
@@ -10,7 +10,7 @@ design:
   background:
     text_color_light: false
     image_darken: 0
-    image: acc.png
+    image: ""
 ---
 The database is recorded using 2 cameras and a laptop. The
 DAVIS346 [1], [9], is used to record events. Its resolution is
@@ -22,4 +22,5 @@ FLIR Systems [11]. The visible sensor is a CCD sensor with
 a pixel resolution of 1920 × 1080. The thermal sensor of this
 camera is an uncooled VOx microbolometer and has a pixel
 resolution of 640 × 512.
-Fig. 2 shows the two cameras used in the database collection.
+Figure below shows the two cameras used in the database collection.
+![](../../assets/media/acc.png)
