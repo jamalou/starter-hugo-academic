@@ -20,6 +20,8 @@ design:
 ---
 <!--StartFragment-->
 
-A password for decrypting the compressed SOCRatES ZIP files will be provided after receiving the duly signed [license agreement](http://gait3.eurecom.fr/license/gait3_UsageAgreement.pdf). Please fill in the license agreement and send a scanned copy by e-mail at [gait3@eurecom.fr](mailto:gait3@eurecom.fr).
+A download link for the database compressed and a password for decrypting the compressed Gait3 ZIP files will be provided after receiving the duly signed [license agreement](http://gait3.eurecom.fr/license/gait3_UsageAgreement.pdf). Please fill in the license agreement and send a scanned copy by e-mail at [gait3@eurecom.fr](mailto:gait3@eurecom.fr).
+
+
 
 <!--EndFragment-->
