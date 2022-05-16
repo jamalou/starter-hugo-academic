@@ -7,3 +7,4 @@ title: Description
 active: true
 author: admin
 ---
+![](example.png)
