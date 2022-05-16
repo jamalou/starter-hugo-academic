@@ -28,7 +28,7 @@ item:
     url: ""
 widget_id: eventcam
 headless: true
-weight: 50
+weight: 30
 title: Event-based Camera
 subtitle: null
 design:
