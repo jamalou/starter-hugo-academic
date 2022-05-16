@@ -16,6 +16,12 @@ Videos were recorded in an empty room equipped with two
 lightings in addition to the room lights. The cameras were put
 about 1 meter from the ground and facing perpendicularly to
 the background (the wall of the room) at about 6 meters from
-it. Fig. 1 shows an example of an individual from our database,
+it. Figure below shows an example of an individual from our database,
 recorded simultaneously with an event-based camera, RGB
 camera, and thermal camera.
+
+<!--StartFragment-->
+
+!\[](example.png)
+
+<!--EndFragment-->
