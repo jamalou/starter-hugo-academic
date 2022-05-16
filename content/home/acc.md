@@ -2,7 +2,7 @@
 widget: pages
 widget_id: rec_setup
 headless: true
-weight: 40
+weight: 50
 title: Database recording setup
 active: true
 design:
