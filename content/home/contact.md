@@ -28,9 +28,7 @@ content:
   email: gait3@eurecom.fr
   address:
     street: EURECOM, Campus SophiaTech, 450 Route des Chappes, CS 50193
-    city: Biot Sophia Antipolis
-    region: Nice
-    postcode: '06904 cedex'
+    city: '06904 Biot Sophia Antipolis cedex, France' 
     country: FRANCE
     country_code: FR
   coordinates:
