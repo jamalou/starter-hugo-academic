@@ -1,5 +1,5 @@
 ---
-widget: pages
+widget: featured
 widget_id: acc_process
 headless: true
 weight: 60
