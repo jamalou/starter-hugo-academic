@@ -7,4 +7,4 @@ title: Description
 active: true
 author: admin
 ---
-![](example.png)
+![](../../assets/media/example.png)
