@@ -3,7 +3,7 @@ widget: featured
 widget_id: rec_setup
 headless: true
 weight: 50
-title: Database recording setup
+title: Recording setup
 active: true
 design:
   columns: "2"
