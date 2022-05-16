@@ -25,7 +25,7 @@ experience:
     description: Taught electronic engineering and researched semiconductor physics.
 widget_id: gait
 headless: true
-weight: 40
+weight: 20
 title: Gait
 subtitle: null
 design:
