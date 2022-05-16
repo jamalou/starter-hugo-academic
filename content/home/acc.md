@@ -1,5 +1,5 @@
 ---
-widget: pages
+widget: featured
 widget_id: rec_setup
 headless: true
 weight: 50
