@@ -2,13 +2,6 @@
 title: Gait 3 Database
 role: A tri-modal data base for gait recognition
 avatar_filename: avatar.jpg
-bio: ""
-interests: []
-social: []
-organizations: []
-education:
-  courses: []
-email: ""
 superuser: false
 highlight_name: true
 ---
