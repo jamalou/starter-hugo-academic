@@ -2,7 +2,7 @@
 widget: pages
 widget_id: acc_process
 headless: true
-weight: 190
+weight: 60
 title: ACQUISITION PROCESS
 active: true
 design:
