@@ -22,6 +22,6 @@ camera, and thermal camera.
 
 <!--StartFragment-->
 
-!\[](example.png)
+!\[](example2.png)
 
 <!--EndFragment-->
