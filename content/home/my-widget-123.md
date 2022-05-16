@@ -10,7 +10,7 @@ design:
   background:
     text_color_light: false
     image_darken: 0
-    image: example2.PNG
+    image: ""
 ---
 The data collection took place in a controlled environment.
 Videos were recorded in an empty room equipped with two
