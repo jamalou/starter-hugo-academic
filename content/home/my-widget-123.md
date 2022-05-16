@@ -20,8 +20,4 @@ it. Figure below shows an example of an individual from our database,
 recorded simultaneously with an event-based camera, RGB
 camera, and thermal camera.
 
-<!--StartFragment-->
-
 !\[](example2.png)
-
-<!--EndFragment-->
