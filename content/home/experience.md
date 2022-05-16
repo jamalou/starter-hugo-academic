@@ -1,5 +1,5 @@
 ---
-widget: pages
+widget: featured
 date_format: Jan 2006
 experience:
   - title: CEO
