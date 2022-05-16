@@ -1,5 +1,5 @@
 ---
-widget: experience
+widget: pages
 date_format: Jan 2006
 experience:
   - title: CEO
