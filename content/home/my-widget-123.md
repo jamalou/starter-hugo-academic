@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: my-widget-123
+widget_id: acc_process
 headless: true
 weight: 190
 title: ACQUISITION PROCESS
