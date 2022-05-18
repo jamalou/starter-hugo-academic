@@ -10,7 +10,7 @@ design:
   background:
     text_color_light: false
     image_darken: 0
-    image: example2.PNG
+    image: ""
 ---
 The data collection took place in a controlled environment.
 Videos were recorded in an empty room equipped with two
@@ -20,4 +20,4 @@ the background (the wall of the room) at about 6 meters from
 it. Figure below shows an example of an individual from our database,
 recorded simultaneously with an event-based camera, RGB
 camera, and thermal camera.
-![](example2.png)
+![](example2.PNG)
