@@ -25,15 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: gait3@eurecom.fr
-  address:
-    street: EURECOM, Campus SophiaTech, 450 Route des Chappes, CS 50193
-    city: '06904 Biot Sophia Antipolis cedex, France' 
-    country: FRANCE
-    country_code: FR
-  coordinates:
-    latitude: '43.61460349417259'
-    longitude: '7.071563820262212'
+  
 design:
   columns: '2'
 ---
